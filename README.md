@@ -11,8 +11,7 @@ You can find the repository for this project at [GitHub](https://github.com/saif
 1. **Clone the Repository:**
    ```bash
    https://github.com/saif-islam123/hangman-game
-
-2. cd hangman-game
+   cd hangman-game
 3. python hangman_game.py
 # Requirements
 . Python 3.x
